@@ -13,7 +13,7 @@ A centroid-based approach to find cluster in datas implemented through python.
 `matplotlib 3.0.2`
 
 ## _installation:_
-- install python 3.7.1 from the official website
+- install `python 3.7.1` from the official website
 - pip install `numpy`
 - pip install `sklearn`
 - pip install `matplotlib`
