@@ -11,7 +11,7 @@ sklearn 0.20.1
 matplotlib 3.0.2
 
 installation:
-1- install python 3.* on the official website
+1- install python 3.* from the official website
 2- pip install numpy
 3- pip install sklearn
 4- pip install matplotlib
