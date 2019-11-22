@@ -11,16 +11,16 @@ sklearn 0.20.1
 matplotlib 3.0.2
 
 installation:
-install python 3.* on the official website
-pip install numpy
-pip install sklearn
-pip install matplotlib
+1- install python 3.* on the official website
+2- pip install numpy
+3- pip install sklearn
+4- pip install matplotlib
 (you can use "conda" instead of "pip" in the anaconda environement)
 
 usages:
 copy the code in your favorite python IDE and run it
-copy the code in a editor and use the command "py <file_name>.py"
-copy the code in a editor and use the command "python <file_name>.py"
+copy the code in a editor and use the command "python clusters.py"
+(you may try 'py clusters.py' if the command above don't work)
 
 references:
 https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html
