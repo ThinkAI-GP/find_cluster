@@ -21,7 +21,7 @@ A centroid-based approach to find cluster in datas implemented through python.
 
 ## _usages:_
 copy the code in a editor and use the command `python clusters.py`
-(you may try `py clusters.py` if the command above don't work)
+(you may try `py clusters.py` if the command aside don't work)
 
 ## _references:_
 - [Wikipedia](https://fr.wikipedia.org/wiki/K-moyennes) gives a good on the idea behind
